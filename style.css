@@ -1,0 +1,49 @@
+*{
+    /* background-color: black; */
+}
+
+/* .main-head{
+    text-align: center;
+    color: skyblue;
+}
+
+#todo{
+    background-color: white;
+    border-color: white;
+    width: 30%;
+    height: 28px;
+    outline-color: skyblue;
+    margin-top: 20px;
+    border-radius: 2px;
+    margin-left: 33% ;
+}
+.add-btn{
+    background-color: skyblue;
+    border-color: skyblue;
+    padding: 8px 20px 8px 20px;
+    color: white;
+    border-radius: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+li{
+    /* background-color: skyblue; */
+    /* list-style: none; */
+/* }  */
+
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h1{
+    text-align: center;
+    
+}
+p{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
